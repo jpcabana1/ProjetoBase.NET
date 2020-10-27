@@ -24,11 +24,11 @@
 
 
 
-- **InitialCatalog** é o seu banco exemplo: **Northwind**.
+
 - O arquivo **config.json** serve para montar uma __conection string__ para o SQL Server.
 - Compilar o projeto.
 - Mover o **Config.json** para a pasta **ProjetoBase.NET\ProjetoBase.NET\ProjetoBase.NET\bin\debug  ou \release**.
-- Executar.
+- Executar o projeto e test suas querys ;).
 
 
 

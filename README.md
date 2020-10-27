@@ -6,6 +6,21 @@
 # Atenção: instruções para configurar o banco
 
 - A configuração será feita pelo arquivo **config.json**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Altere os parametros de acordo com o seu banco.
 
 

@@ -18,7 +18,7 @@
 
 - Altere os parametros de acordo com o seu banco.
 - **InitialCatalog** é o seu banco exemplo: **Northwind**.
-- Se **RodarLocal**  estiver marcado como **s** não é necessário preencher os campos **User** nem **Password**. Altere o campo *Authentication* para **Windows Authentication**
+- Se **RodarLocal**  estiver marcado como **"s"** não é necessário preencher os campos **User** nem **Password**. Altere o campo *Authentication* para **Windows Authentication**.
 
 ![Configurações](https://user-images.githubusercontent.com/22552633/97257856-df8e3f80-17f5-11eb-8da4-b69abbddc289.png)
 

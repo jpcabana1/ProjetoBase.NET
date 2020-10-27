@@ -11,4 +11,4 @@
 - Compilar o projeto.
 - Mover o **Config.json** para a pasta **debug/release**.
 
-![](https://drive.google.com/file/d/1f6j6DnHG3jDVjoKTRx2SGRdf46VFAzY1/view?usp=sharing)
+![Configurações](https://user-images.githubusercontent.com/22552633/97257856-df8e3f80-17f5-11eb-8da4-b69abbddc289.png)

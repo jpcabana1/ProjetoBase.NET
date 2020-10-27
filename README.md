@@ -16,6 +16,14 @@
 
 - O arquivo **config.json** serve para montar uma __conection string__ para o SQL Server.
 - Compilar o projeto.
-- Mover o **Config.json** para a pasta **debug/release**.
+- Mover o **Config.json** para a pasta **ProjetoBase.NET\ProjetoBase.NET\ProjetoBase.NET\bin\debug  ou \release**.
+- Executar.
 
 
+
+
+
+
+
+# OBS: 
+O arquivo QueryPrincipal.sql já contém uma Store Procedure e um exemplo da mesma. 

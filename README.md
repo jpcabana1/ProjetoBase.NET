@@ -29,7 +29,7 @@
 - Compilar o projeto.
 - Mover o **Config.json** para a pasta **ProjetoBase.NET\ProjetoBase.NET\ProjetoBase.NET\bin\debug  ou \release**.
 - Executar o projeto.
-- E teste suas querys normais ;).
+- Teste suas Query's ;D .
 
 
 

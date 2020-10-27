@@ -26,4 +26,4 @@
 
 
 # OBS: 
-O arquivo QueryPrincipal.sql já contém uma Store Procedure e um exemplo da mesma. 
+- O arquivo **QueryPrincipal.sql** já contém uma Store Procedure e um exemplo da mesma. 

@@ -12,7 +12,7 @@ namespace ProjetoBase.NET.Layers.DataBases
         private SqlDataAdapter Adapter;
         public SQLserver()
         {
-            Connection = new SqlConnection(Config.Config.ReadConfig());
+            Connection = new SqlConnection(Config.Config.ReadConfigString());
             Connection.Open();
         }
         public void ExecutaComando(string p_comando)

@@ -1,6 +1,6 @@
 ﻿namespace ProjetoBase.NET
 {
-    partial class Form1
+    partial class frmTestQuery
     {
         /// <summary>
         /// Required designer variable.

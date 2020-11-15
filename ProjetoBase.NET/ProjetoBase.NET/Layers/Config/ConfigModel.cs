@@ -13,6 +13,7 @@ namespace ProjetoBase.NET.Models
         public string User { get; set; }
         public string Password { get; set; }
         public string RodarLocal { get; set; }
+        public string TipoBanco { get; set; }
         public override string ToString()
         {
             if (RodarLocal == "n")

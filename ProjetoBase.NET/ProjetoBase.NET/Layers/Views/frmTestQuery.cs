@@ -13,12 +13,25 @@ namespace ProjetoBase.NET
 {
 
 
-    public partial class Form1 : Form
+    #region Atributos
+
+    #endregion
+
+    #region Construtores
+
+    #endregion
+    #region Eventos
+
+    #endregion
+    #region Funções e Procedimentos
+
+    #endregion
+    public partial class frmTestQuery : Form
     {
         private FacBanco fac;
         private IBanco banco;
 
-        public Form1()
+        public frmTestQuery()
         {
             InitializeComponent();
             fac = new FacBanco();

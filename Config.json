@@ -3,5 +3,6 @@
   "InitialCatalog": "banco",
   "User": "usuario",
   "Password": "senha",
-  "RodarLocal": "s/n"
+  "RodarLocal": "s/n",
+  "TipoBanco":"SQLServer"
 }
